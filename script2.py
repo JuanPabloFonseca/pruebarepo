@@ -1,4 +1,4 @@
 
 for i in range(120):
-    if i == 10:
-        print("Perfect 10!")
+    if i == 15:
+        print("Perfect 15!")
